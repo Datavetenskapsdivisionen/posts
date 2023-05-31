@@ -3,3 +3,5 @@ Detta är ett simpelt repo som aggerar som "databas" för diverse nyheter som l�
 
 Du kan göra en post genom att simpelt nog bara göra ett issue, så kommer den synnas på vår hemsida!
 För att din "post" ska synnas kommer den behövas markeras av en admin, men detta bör gå relativt snabbt!
+
+Kan ta upp till 1 minut för att dina ändringar och posts ska synas på sidan!
